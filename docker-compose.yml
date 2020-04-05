@@ -2,5 +2,4 @@ version: "3"
 
 services:
   hello:
-    image: busybox
-    command: echo "Hello from the Busybox container!"
+    image: hello-world
